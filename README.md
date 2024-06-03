@@ -1,4 +1,4 @@
-# agência de marketing digital
+# Agência de marketing digital
 
 ## Descrição
 Este exercício tem como objetivo criar uma Uma agência de marketing digital é uma empresa especializada em promover marcas e produtos em canais digitais, com estratégias de divulgação e relacionamento.
@@ -44,3 +44,7 @@ Aproveite os exercícios e Vamos Codar! </ >
 
 ##
 **Alan Denisson | Dev Front-End**
+
+
+## Imagem Ilustrativa
+![img ilustrativo03](https://github.com/alandenisson/Agencia-de-marketing-digital/assets/154476905/15a7b06c-6786-4341-982e-60b193144bd2)
